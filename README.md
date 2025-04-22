@@ -55,8 +55,8 @@ src/
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/trading-engine.git
-   cd trading-engine/frontend
+   git clone  https://github.com/AlphaR2/sample-orodex-web.git
+   cd sample-orodex-web
    ```
 
 2. Install dependencies
